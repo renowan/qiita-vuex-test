@@ -1,5 +1,3 @@
-// import Vue from 'vue'
-import HelloWorld from '@/components/HelloWorld'
 import store from '@/store/'
 
 const app = store.state.app
